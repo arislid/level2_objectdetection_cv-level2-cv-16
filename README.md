@@ -12,7 +12,7 @@
 
 ## **🚮 Links**
 - [비전 길잡이 Notion 📝](https://vision-pathfinder.notion.site/Object-Detection-98d7238151d24cfcbd3f365cb68b57af)
-- [비전 길잡이 발표자료 & WrapUpReport](./appendix/)
+- [비전 길잡이 발표자료](./appendix/)
 
 ## **🚮 Result**
 ![result](https://user-images.githubusercontent.com/25689849/214493814-4ee7cef2-a8fd-4264-a795-ea59a71b50d0.png)
@@ -61,7 +61,7 @@
 
 ## **🚮 Directory Structure**
 ```
-|-- appendix : 이 프로젝트에 대한 발표자료와 WrapUp Report
+|-- appendix : 이 프로젝트에 대한 발표자료
 |-- mmdetection
 |-- yoloV7
 `-- README.md
